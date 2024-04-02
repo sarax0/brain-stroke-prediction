@@ -27,6 +27,6 @@ Implements Voting Classifier to leverage the strengths of multiple models for a 
 | --- | RUS | ROS | SMOT| Original|
 | --- | --- |---|---|---|
 | Logistic Regression | 75% | 74% | 74% | - |
-| KNeighbors Classifiers | 66% | 74% | 74% | - |
+| KNeighbors Classifiers | 66% | 84% | 78% | - |
 | XGBoost Classifier | 75% | 91% | 92% | - |
-| ANN |72%|-|88%|**93.9%**|
+| ANN |72%|-|88%|`93.9%`|
